@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emily 
+- 👋 Hi, I’m Emily 
 - 👀 I’m interested in everything but nowadays most related to Earth Science.
 - 🌱 I’m currently learning Python,R
   

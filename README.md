@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emily 
-- 👀 I’m interested in everything but nowadays most related to Earth Science.
+- 👀 I’m interested in everything but nowadays most related to Earth & Data Science.
 - 🌱 I’m currently learning Python,R
   
 <!---
